@@ -1,0 +1,45 @@
+{
+  "mod_elements": [
+    {
+      "name": "EvernightForestCreativeTab",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "evernight_forest_creative_tab",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item_group.evernight_forest.evernight_forest_creative_tab": "Evernight Forest"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "evernight_forest",
+    "modName": "Evernight Forest",
+    "version": "1.0.0",
+    "description": "A Minecraft Evernight Forest Dimension Mod",
+    "author": "WeiPlus, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.evernightforest"
+  },
+  "mcreatorVersion": 202400452410
+}

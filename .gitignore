@@ -1,0 +1,9 @@
+run/
+build/
+.gradle/
+gradle/
+.mcreator/
+assets/
+META-INF/
+pack.mcmeta
+elements/
